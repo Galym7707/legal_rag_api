@@ -1,0 +1,11 @@
+Flask
+python-dotenv
+pymongo
+chromadb
+langchain
+langchain-community
+google-generativeai
+unstructured[local-inference] # Для обработки различных типов документов
+pypdf # Для PDF
+python-docx # Для DOCX
+markdown # Для форматирования ответов
